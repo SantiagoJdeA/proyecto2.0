@@ -4,4 +4,18 @@
 }
 .categorias{
     color: black;
+    font-size: 30px;
+    
+
+}
+.title{
+    background-color: teal;
+    color: black;
+    text-align: center;
+
+}
+.title2{
+    text-align: center;
+    color: black;
+    background-color: teal;
 }
